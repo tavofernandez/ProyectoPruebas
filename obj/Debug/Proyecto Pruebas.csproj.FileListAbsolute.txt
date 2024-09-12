@@ -1,0 +1,9 @@
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto Pruebas.csproj.AssemblyReference.cache
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto_Pruebas.frmPruebas.resources
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto_Pruebas.Properties.Resources.resources
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto Pruebas.csproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\Proyecto Pruebas\bin\Debug\Proyecto Pruebas.exe
+C:\Users\TAVO\source\repos\Proyecto Pruebas\bin\Debug\Proyecto Pruebas.pdb
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto Pruebas.exe
+C:\Users\TAVO\source\repos\Proyecto Pruebas\obj\Debug\Proyecto Pruebas.pdb
